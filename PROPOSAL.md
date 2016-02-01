@@ -1,19 +1,15 @@
 # Proposal: Netflix suggestions app
-## An app that suggests Netflix movies and tv shows for the user
+## An app that suggests Netflix movies and tv shows for the user.
 Jacob Wagner
 
 ## Needs and Opportunities
-Explain the problem you have noticed that needs to be solved with a project
-like yours. This is also your hook, so make sure you grab our attention.
+People need something to helo t hem find movies and tv shows so they don't have to waste time searching movies and following the highlights to see what to watch. They need something that will do it for them based on their personality.
 
 ## Audience / Clients / Users
-Explain who will benefit from your project. How will you be able to access
-them for testing?
+The intended audience for this app are people who are new to Netflix and people who bored within there genre(s).
 
 ## Product
-What is the actual product you will show this spring. This project may be made
-of atoms or bits, but you must have something to show. I'm not interested
-seeing a bunch of great ideas at the end of the year. I want to see things.
+This product is an app in which users will take a test to determine their personality and find out which movies best suits them. I will show the class the app when the project is due. 
 
 ## Timeline
 What is your monthly timeline for this project. I want to see a list of
