@@ -1,6 +1,6 @@
-# Proposal: [title of project]
-## [subtitle that helps describe the project]
-[Names]
+# Proposal: Netflix suggestions app
+## An app that suggests Netflix movies and tv shows for the user
+Jacob Wagner
 
 ## Needs and Opportunities
 Explain the problem you have noticed that needs to be solved with a project
