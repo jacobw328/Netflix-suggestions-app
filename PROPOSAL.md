@@ -12,22 +12,18 @@ The intended audience for this app are people who are new to Netflix and people 
 This product is an app in which users will take a test to determine their personality and find out which movies best suits them. I will show the class the app when the project is due. 
 
 ## Timeline
-What is your monthly timeline for this project. I want to see a list of
-deliverables with deadlines. You may find that the timeline needs adjustment
-during the course of the year, which may be fine. Check in with me if that's
-the case. 
 
 | Date          | Deliverable   |
-| ------------- | ------------- |
-| February 26   | Deliverable 1 |
-| April 1       | Deliverable 2 |
-| April 29      | Deliverable 3 |
+| February 5    | Have the constructor and other base methods done  |
+| February 12   | have the personality quiz started |
+| February 19   | Have personality quiz done or close to done |
+| March 11      | Have some of the selected movies in the database |
+| April 1       | Have at least 1 or 2 genres in the code |
+| April 29      | Have about half of the movies in |
+| May 27        | Have the program working like a well-oiled machine |
 
 ## Reality Check
-I am looking for moonshots here, but even moonshots need budgets. What
-equipment are you going to need? What other capital expenditures do you
-anticipate, and how will you meet them?
+The things that are neccesary to my project is a Netflix subscription(which I already have) and a computer.
 
 ## Conclusion
-Wrap it up. Why are you fired up about this project? Inspire us to support you,
-and give us a great reason to approve your project.
+Overall, this product will introduce users to new and exciting genres and broaden their list of watched movies. This product will git(get it?) people out of their Netflix ruts and allow them to achieve their dreams.
