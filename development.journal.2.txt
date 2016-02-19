@@ -1,7 +1,0 @@
-Journal Entry 2
-Jacob Wagner
-Today for my 20% project I googled and took a bunch of personality tests(like 3 or 4 I think) and I used tried to use some of their questions and implement another version of them into my program. 
-But, they all sucked and so I spent time trying to create my own question. 
-Oh, before that I made my main method and made it usable by the user so now you can exit and answer 2 questions. 
-The questions are like "A girl gets dumped twice on her birthday by the same guy two years in a row. Is this funny or sad?" and "a horse trips while jumping over a hurdle and breaks a leg. Funny or Sad?"
-I am just doing a funny vs. sad test right now.
