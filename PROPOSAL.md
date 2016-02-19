@@ -16,7 +16,7 @@ This product is an app in which users will take a test to determine their person
 | Date          | Deliverable   |
 | February 5    | Have the constructor and other base methods done  |
 | February 12   | have the personality quiz started |
-| February 19   | Have the comedy vs. drama aspect of the personality quiz done or close to done |
+| February 26   | Have the comedy vs. drama aspect of the personality quiz done or close to done |
 | March 11      | Have some of the selected movies in the database |
 | April 1       | Have at least 1 or 2 genres in the code |
 | April 29      | Have about half of the movies in |
