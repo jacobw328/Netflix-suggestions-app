@@ -18,3 +18,7 @@ I am just doing a funny vs. sad test right now.
 #Journal Entry 4
 ###2/26/16
 ####Today for my 20% project I worked on completing my deliverable 1. My deliverable is to have all or most of the comedy vs drama test done for my personality test. I got all of it done along with a little bit of side content. I have 5 questions that all compare comedy vs drama. I also fixed all of my bugs so far and added different features to questions. Like if you don't understand a reference that was made you can say “idk” and another question will appear. I also started on the horror vs action section of the quiz and I have 3 questions so far. After a section of the quiz, you will be prompted with a question that tells you your results and asks if you would like to change it. This still has a little bit of bugs but I will fix it.
+
+#Journal Entry 5
+###3//16
+####Today I worked on my action vs horror section of my quiz. I got all of my questions done and revised a few that were already complete. I mainly worked on bugs throughout my whole program(I had a lot) and stuff like that. I realized that my comparison of the two topics of the quiz was wrong where as I just compared one vs the oother and had no alternatives or tie breakers. So I implemented tie breakers, alternatives, and I revised my section where you can change tho outcome if the user isnt satisfied. Another thing I did was break up my main method into sections for cleanliness and more control. I also made my nonsense response a different method so I can reuse them.
