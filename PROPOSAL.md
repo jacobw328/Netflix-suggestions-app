@@ -13,14 +13,15 @@ This product is an app in which users will take a test to determine their person
 
 ## Timeline
 
-| Date          | Deliverable   |
-| February 5    | Have the constructor and other base methods done  |
-| February 12   | have the personality quiz started |
-| February 26   | Have the comedy vs. drama aspect of the personality quiz done or close to done |
-| March 11      | Have some of the selected movies in the database |
-| April 1       | Have at least 1 or 2 genres in the code |
-| April 29      | Have about half of the movies in |
-| May 27        | Have the program working like a well-oiled machine |
+| Date        | Deliverable                                                                    |
+|-------------|--------------------------------------------------------------------------------|
+| February 5  | Have the constructor and other base methods done                               |
+| February 12 | have the personality quiz started                                              |
+| February 26 | Have the comedy vs. drama aspect of the personality quiz done or close to done |
+| March 11    | Have some of the selected movies in the database                               |
+| April 1     | Have at least 1 or 2 genres in the code                                        |
+| April 29    | Have about half of the movies in                                               |
+| May 27      | Have the program working like a well-oiled machine                             |
 
 ## Reality Check
 The things that are neccesary to my project is a Netflix subscription(which I already have) and a computer.
