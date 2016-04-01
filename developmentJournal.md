@@ -26,3 +26,7 @@ I am just doing a funny vs. sad test right now.
 #Journal Entry 6
 ###3/11/16
 #### Today for my 20% project I started working on my classics vs my musicals section of my quiz. I have 3 questions so far and they all allude to popular movies from the 80s and 2000s. I have not implemented the option for a new question if you don't know what movies I am asking about. I also edited some questions so the user doesn't have to type answers as eomplex as they were. For example instead of typing "high school musical" you can just type "musical". I let John try my program today and he thought it was inconvenient so I need to work on that. Next week I will finish my current section and start the next section.
+
+#Journal Entry 7
+###4/1/16
+#### Today for my 20% project I mostly went over the code I have now and tried to debug it or make it better(better as in smoother or easier to read and hopefully easier to use in the future). I have completed my deliverable and am on track for the next deliverable. In order to achieve my goal for this deliverable I had to have to sections of the personality quiz done and I have three so I'm already getting close to my next deliverable which I believe is have more than half of my personality quiz done. Next week I will start on the next section. I don't know what it is yet, but we'll cross that bridge when we get there.
