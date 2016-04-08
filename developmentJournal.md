@@ -30,3 +30,7 @@ I am just doing a funny vs. sad test right now.
 #Journal Entry 7
 ###4/1/16
 #### Today for my 20% project I mostly went over the code I have now and tried to debug it or make it better(better as in smoother or easier to read and hopefully easier to use in the future). I have completed my deliverable and am on track for the next deliverable. In order to achieve my goal for this deliverable I had to have to sections of the personality quiz done and I have three so I'm already getting close to my next deliverable which I believe is have more than half of my personality quiz done. Next week I will start on the next section. I don't know what it is yet, but we'll cross that bridge when we get there.
+
+#Journal Entry 8
+###4//8/16
+#### Today, for 20% day I finally finished my personality quiz! Well actually not really I have to do the part at the end of the quiz where the program goves you a chance to change your interests but that is easy so I'm pretty much done. Now I am going to start importing the titles of movies from Netflix and start on the suggestions based on your score. I'm not really sure how I'm going to do this but I'll figure it out. I might just have a bunch of if statements that make your suggestions really specific or I'll just suggest a lot of movies based off of the interests of the user.
