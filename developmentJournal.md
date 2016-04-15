@@ -34,3 +34,7 @@ I am just doing a funny vs. sad test right now.
 #Journal Entry 8
 ###4//8/16
 #### Today, for 20% day I finally finished my personality quiz! Well actually not really I have to do the part at the end of the quiz where the program goves you a chance to change your interests but that is easy so I'm pretty much done. Now I am going to start importing the titles of movies from Netflix and start on the suggestions based on your score. I'm not really sure how I'm going to do this but I'll figure it out. I might just have a bunch of if statements that make your suggestions really specific or I'll just suggest a lot of movies based off of the interests of the user.
+
+#Journal Entry 8
+###4/15/16
+#### Today for my 20% project, I finished my last section of the quiz. I started to work on my layout for interpretation. I made an interpreter class that extends personality. I implemented a new class that makes a list of movies for me so that part of the code will be really easy to type. I will create like 8 more classes and they will determine the movies for your results. I still have a bunch of bugs and I will start on those as soon as I'm done with my movie list thing. Next Friday I will hopefully finish my interpreter and maybe my list. Then I will start on those gosh darn bugs.
