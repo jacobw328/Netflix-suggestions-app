@@ -28,13 +28,17 @@ I am just doing a funny vs. sad test right now.
 #### Today for my 20% project I started working on my classics vs my musicals section of my quiz. I have 3 questions so far and they all allude to popular movies from the 80s and 2000s. I have not implemented the option for a new question if you don't know what movies I am asking about. I also edited some questions so the user doesn't have to type answers as eomplex as they were. For example instead of typing "high school musical" you can just type "musical". I let John try my program today and he thought it was inconvenient so I need to work on that. Next week I will finish my current section and start the next section.
 
 #Journal Entry 7
+###3/18/16
+#### Today for my 20% project I continued to work on my classicals vs musical section of the quiz. I can't remember how many questions I implemented but I know that I am close to being done with this section. The next section I will work on is sci fi vs sports I believe. I will do 5 questions again and after I'm done with this section I will start on my interpretation section of the quiz which will be fun. Yay! The part I dread is putting all the movies but it's ok I will tough it out.
+
+#Journal Entry 8
 ###4/1/16
 #### Today for my 20% project I mostly went over the code I have now and tried to debug it or make it better(better as in smoother or easier to read and hopefully easier to use in the future). I have completed my deliverable and am on track for the next deliverable. In order to achieve my goal for this deliverable I had to have to sections of the personality quiz done and I have three so I'm already getting close to my next deliverable which I believe is have more than half of my personality quiz done. Next week I will start on the next section. I don't know what it is yet, but we'll cross that bridge when we get there.
 
-#Journal Entry 8
+#Journal Entry 9
 ###4//8/16
 #### Today, for 20% day I finally finished my personality quiz! Well actually not really I have to do the part at the end of the quiz where the program goves you a chance to change your interests but that is easy so I'm pretty much done. Now I am going to start importing the titles of movies from Netflix and start on the suggestions based on your score. I'm not really sure how I'm going to do this but I'll figure it out. I might just have a bunch of if statements that make your suggestions really specific or I'll just suggest a lot of movies based off of the interests of the user.
 
-#Journal Entry 9
+#Journal Entry 10
 ###4/15/16
 #### Today for my 20% project, I finished my last section of the quiz. I started to work on my layout for interpretation. I made an interpreter class that extends personality. I implemented a new class that makes a list of movies for me so that part of the code will be really easy to type. I will create like 8 more classes and they will determine the movies for your results. I still have a bunch of bugs and I will start on those as soon as I'm done with my movie list thing. Next Friday I will hopefully finish my interpreter and maybe my list. Then I will start on those gosh darn bugs.
