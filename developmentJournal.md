@@ -42,3 +42,7 @@ I am just doing a funny vs. sad test right now.
 #Journal Entry 10
 ###4/15/16
 #### Today for my 20% project, I finished my last section of the quiz. I started to work on my layout for interpretation. I made an interpreter class that extends personality. I implemented a new class that makes a list of movies for me so that part of the code will be really easy to type. I will create like 8 more classes and they will determine the movies for your results. I still have a bunch of bugs and I will start on those as soon as I'm done with my movie list thing. Next Friday I will hopefully finish my interpreter and maybe my list. Then I will start on those gosh darn bugs.
+
+#Journal Entry 11
+###4/22/16
+#### Today for my 20% project I started putting in the movies into my ListContainer class. So far I have I think 4 categories in and I need like 8 I believe. Each list has about 15+ movies in them all coordinating to their categories. I obtained these movies by going onto Netflix and browsing categories. I'm probably going to implement date and stars into my code so that when the movies presented to the user are somewhat sorted. I am almost done with the interpretation of the results of the personality quiz and I will probably be done here soon.
