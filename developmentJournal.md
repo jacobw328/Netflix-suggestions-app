@@ -46,3 +46,11 @@ I am just doing a funny vs. sad test right now.
 #Journal Entry 11
 ###4/22/16
 #### Today for my 20% project I started putting in the movies into my ListContainer class. So far I have I think 4 categories in and I need like 8 I believe. Each list has about 15+ movies in them all coordinating to their categories. I obtained these movies by going onto Netflix and browsing categories. I'm probably going to implement date and stars into my code so that when the movies presented to the user are somewhat sorted. I am almost done with the interpretation of the results of the personality quiz and I will probably be done here soon.
+
+#Journal Entry 12
+###4/29/16
+#### Today for my 20% project I finsished putting my movies into my ListConatiner class. I have comedy, drama, action, horror, sci-fi, and sports. Each list has about 15 movies give or take. I obtained these movies by going onto Netflix.com and having Drew & Jai by my side and we chose movies that fit the category. I am going to start my interpretation class now.
+
+#Journal Entry 13
+###5/6/16
+#### Today for my 20% project I started my interpretation class in my program. I didn't get very far because I primarily outlined my attack plan. That and John and his non-stop talking. Sometimes John helps a lot but that doesn't really count because he also distracts me a lot. Next week I am going to ignore John and start the coding of my interpretation. 
