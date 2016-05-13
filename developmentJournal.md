@@ -54,3 +54,7 @@ I am just doing a funny vs. sad test right now.
 #Journal Entry 13
 ###5/6/16
 #### Today for my 20% project I started my interpretation class in my program. I didn't get very far because I primarily outlined my attack plan. That and John and his non-stop talking. Sometimes John helps a lot but that doesn't really count because he also distracts me a lot. Next week I am going to ignore John and start the coding of my interpretation. 
+
+#Journal Entry 14
+###5/13/16
+#### This week for my 20% project I started working on fixing the bugs in my program and making it more efficient. There were a bunch of bugs that I fixed such as incorrect spelling, wrong results, etc... For making my program more efficient, I made a bunch of more methods so that I could make them recursive so that if the user of my program typed something wrong I could just ask again versus skipping the question. I haven't finished debugging and making all of my methods yet but I am on my way.
