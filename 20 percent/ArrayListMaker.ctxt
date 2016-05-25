@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=path\ methodName
+comment0.target=ArrayListMaker(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=int\ textSize()
+comment1.text=\r\ngets\ the\ size\ of\ the\ text\ file\r\n@return\ the\ size\ of\ the\ original\ text\ file\r\n
+comment2.params=
+comment2.target=void\ readFile()
+comment2.text=\r\nreads\ the\ file\ and\ puts\ it\ in\ an\ array\r\n
+numComments=3

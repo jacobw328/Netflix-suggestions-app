@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=j
+comment0.target=Interpret(Personality)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Interpret\r\n
+comment1.params=
+comment1.target=void\ ComVSAct()
+comment2.params=
+comment2.target=void\ ComVSHor()
+comment3.params=
+comment3.target=void\ DramVSAct()
+comment4.params=
+comment4.target=void\ DramVSHor()
+comment5.params=
+comment5.target=void\ ClassVSSport()
+comment6.params=
+comment6.target=void\ ClassVSSci()
+comment7.params=
+comment7.target=void\ MusVSSport()
+comment8.params=
+comment8.target=void\ MusVSSci()
+numComments=9

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.util.ArrayList\ Comedy()
+comment1.params=
+comment1.target=java.util.ArrayList\ Drama()
+comment2.params=
+comment2.target=java.util.ArrayList\ Classics()
+comment3.params=
+comment3.target=java.util.ArrayList\ Action()
+comment4.params=
+comment4.target=java.util.ArrayList\ Horror()
+comment5.params=
+comment5.target=java.util.ArrayList\ Sports()
+comment6.params=
+comment6.target=java.util.ArrayList\ Musicals()
+comment7.params=
+comment7.target=java.util.ArrayList\ Scifi()
+comment8.params=name
+comment8.target=java.util.ArrayList\ get(java.lang.String)
+numComments=9
