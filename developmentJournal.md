@@ -58,3 +58,8 @@ I am just doing a funny vs. sad test right now.
 #Journal Entry 14
 ###5/13/16
 #### This week for my 20% project I started working on fixing the bugs in my program and making it more efficient. There were a bunch of bugs that I fixed such as incorrect spelling, wrong results, etc... For making my program more efficient, I made a bunch of more methods so that I could make them recursive so that if the user of my program typed something wrong I could just ask again versus skipping the question. I haven't finished debugging and making all of my methods yet but I am on my way.
+
+#Journal Entry 15
+###5/20/16
+#### This week for my 20% project I started on my presentation and finishing up my program. 
+I got most of the slides done and my program is mostly done. I am getting it ready for my presentation on Thursday I believe. I found a big bug in my program well, actually two. 1, my science section doesn't work and 2, I can't print out movies. I'll fix these andhope that I have it good for thursday. I need to make my live demo video still because I don't want to do it during my presentation.
